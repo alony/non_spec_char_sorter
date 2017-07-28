@@ -1,0 +1,2 @@
+class Sorter
+end
